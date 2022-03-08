@@ -1,3 +1,6 @@
 [submodule "poc-stackspot-template"]
 	path = poc-stackspot-template
 	url = git@github.com:darwinaraujozup/poc-stackspot-template.git
+[submodule "poc-stackspot-plugin"]
+	path = poc-stackspot-plugin
+	url = git@github.com:darwinaraujozup/poc-stackspot-plugin.git
